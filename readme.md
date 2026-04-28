@@ -5,12 +5,13 @@ Repositorio con ejercicios básicos de Python orientados a lógica de programaci
 ---
 
 ## Estructura del proyecto
+```
 ├── calculadora/
 │ └── CalculadoraSimple.py
 ├── alumnos/
 │ └── SistemaAlumnos.py
 └── README.md
-
+```
 
 ---
 
